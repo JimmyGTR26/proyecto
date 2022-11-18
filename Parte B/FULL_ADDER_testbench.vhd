@@ -37,11 +37,11 @@ Begin
 		in_cin => in_cin,
 		clk => clk,
 		o_f => o_f,
-		o_cout => o_cout,
+		o_cout => o_cout
 	);
 		
 --Clock process definitions
-clock_process : process 
+clock_process:process 
 	begin
 		clk <='0';
 		wait for clock_period/2;
