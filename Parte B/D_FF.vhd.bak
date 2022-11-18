@@ -12,7 +12,7 @@ architecture behavioral of D_FF is
 	begin
 		process(CLK)
 		begin
-			if (RISING_EDGE(CLK))  then
+			if (CLK='1'  and CLK’event)  then
 				Q <= D;
 			end if;
 		end process;

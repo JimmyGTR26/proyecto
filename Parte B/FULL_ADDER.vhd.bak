@@ -14,7 +14,7 @@ end FULL_ADDER;
 architecture Behavioral of FULL_ADDER is
 
 component D_FF 
-	port(D,CLK : in std_logic;
+	port(D,CLOCK : in std_logic;
 		  Q : out std_logic);
 end component;
 
