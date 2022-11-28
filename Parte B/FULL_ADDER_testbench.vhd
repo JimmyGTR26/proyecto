@@ -13,7 +13,7 @@ port(
 	in_cin : in std_logic;
 	clk : in std_logic;
 	o_f : out std_logic;
-	o_cout : std_logic
+	o_cout : out std_logic
 	);
 end component;
 

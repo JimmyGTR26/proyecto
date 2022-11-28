@@ -7,7 +7,7 @@ entity sumador_completo is
 		b		: in STD_LOGIC;
 		cin	: in STD_LOGIC;
 		f		: out STD_LOGIC;
-		cout	: out STD_LOGIC;
+		cout	: out STD_LOGIC);
 end sumador_completo;
 
 architecture Behavioral of sumador_completo is

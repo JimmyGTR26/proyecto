@@ -23,7 +23,7 @@ applicable agreement for further details.
 	(input)
 	(rect 16 72 184 88)
 	(text "INPUT" (rect 125 0 153 10)(font "Arial" (font_size 6)))
-	(text "in_cin" (rect 5 0 34 12)(font "Arial" ))
+	(text "in_cin" (rect 5 0 33 12)(font "Arial" ))
 	(pt 168 8)
 	(drawing
 		(line (pt 84 12)(pt 109 12))
@@ -39,7 +39,7 @@ applicable agreement for further details.
 	(input)
 	(rect 16 192 184 208)
 	(text "INPUT" (rect 125 0 153 10)(font "Arial" (font_size 6)))
-	(text "in_b" (rect 5 0 26 12)(font "Arial" ))
+	(text "in_b" (rect 5 0 25 12)(font "Arial" ))
 	(pt 168 8)
 	(drawing
 		(line (pt 84 12)(pt 109 12))
@@ -55,7 +55,7 @@ applicable agreement for further details.
 	(input)
 	(rect 16 312 184 328)
 	(text "INPUT" (rect 125 0 153 10)(font "Arial" (font_size 6)))
-	(text "in_a" (rect 5 0 26 12)(font "Arial" ))
+	(text "in_a" (rect 5 0 25 12)(font "Arial" ))
 	(pt 168 8)
 	(drawing
 		(line (pt 84 12)(pt 109 12))
@@ -71,7 +71,7 @@ applicable agreement for further details.
 	(input)
 	(rect 16 416 184 432)
 	(text "INPUT" (rect 125 0 153 10)(font "Arial" (font_size 6)))
-	(text "clk" (rect 5 0 20 12)(font "Arial" ))
+	(text "clk" (rect 5 0 19 12)(font "Arial" ))
 	(pt 168 8)
 	(drawing
 		(line (pt 84 12)(pt 109 12))
@@ -263,21 +263,6 @@ applicable agreement for further details.
 		(line (pt 12 32)(pt 20 40))
 		(circle (rect 28 4 36 12))
 		(circle (rect 28 68 36 76))
-	)
-)
-(symbol
-	(rect 88 464 120 480)
-	(text "VCC" (rect 7 0 27 10)(font "Arial" (font_size 6)))
-	(text "inst2" (rect 3 5 26 17)(font "Arial" )(invisible))
-	(port
-		(pt 16 16)
-		(output)
-		(text "1" (rect 19 7 24 19)(font "Courier New" (bold))(invisible))
-		(text "1" (rect 19 7 24 19)(font "Courier New" (bold))(invisible))
-		(line (pt 16 16)(pt 16 8))
-	)
-	(drawing
-		(line (pt 8 8)(pt 24 8))
 	)
 )
 (symbol
@@ -543,6 +528,21 @@ applicable agreement for further details.
 		(arc (pt 7 29)(pt 7 19)(rect -14 8 19 41))
 		(arc (pt 49 24)(pt 25 13)(rect -6 13 57 76))
 		(arc (pt 25 35)(pt 49 24)(rect -6 -27 57 36))
+	)
+)
+(symbol
+	(rect 88 464 120 480)
+	(text "VCC" (rect 7 0 27 10)(font "Arial" (font_size 6)))
+	(text "Vcc" (rect 3 5 21 17)(font "Arial" )(invisible))
+	(port
+		(pt 16 16)
+		(output)
+		(text "1" (rect 19 7 24 19)(font "Courier New" (bold))(invisible))
+		(text "1" (rect 19 7 24 19)(font "Courier New" (bold))(invisible))
+		(line (pt 16 16)(pt 16 8))
+	)
+	(drawing
+		(line (pt 8 8)(pt 24 8))
 	)
 )
 (connector

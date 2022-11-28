@@ -17,7 +17,7 @@ L6
 VHjz4o<mRaK@oD_YRdokRf2
 Z9 OV;C;10.1d;51
 31
-Z10 !s108 1669320566.713000
+Z10 !s108 1669483908.468000
 Z11 !s90 -reportprogress|300|-93|-work|work|C:/Users/Asus/Desktop/Laboratorio 2 TyDD2/proyecto/Parte B/D_FF.vhd|
 Z12 !s107 C:/Users/Asus/Desktop/Laboratorio 2 TyDD2/proyecto/Parte B/D_FF.vhd|
 Z13 o-93 -work work -O0
@@ -54,7 +54,7 @@ L4
 VRC>_aI2<96Y9OQzeBAPdW3
 R9
 31
-Z17 !s108 1669320566.793000
+Z17 !s108 1669483908.516000
 Z18 !s90 -reportprogress|300|-93|-work|work|C:/Users/Asus/Desktop/Laboratorio 2 TyDD2/proyecto/Parte B/FULL_ADDER.vhd|
 Z19 !s107 C:/Users/Asus/Desktop/Laboratorio 2 TyDD2/proyecto/Parte B/FULL_ADDER.vhd|
 R13
@@ -78,12 +78,12 @@ R14
 !s100 e=?054h6TCZ;M`^WGLid[1
 !i10b 1
 Efull_adder_testbench
-R1
+Z20 w1669482438
 R4
 R5
 R6
-Z20 8C:/Users/Asus/Desktop/Laboratorio 2 TyDD2/proyecto/Parte B/FULL_ADDER_testbench.vhd
-Z21 FC:/Users/Asus/Desktop/Laboratorio 2 TyDD2/proyecto/Parte B/FULL_ADDER_testbench.vhd
+Z21 8C:/Users/Asus/Desktop/Laboratorio 2 TyDD2/proyecto/Parte B/FULL_ADDER_testbench.vhd
+Z22 FC:/Users/Asus/Desktop/Laboratorio 2 TyDD2/proyecto/Parte B/FULL_ADDER_testbench.vhd
 l0
 L4
 VNXkb>jNiJze47acj8Gh^^1
@@ -91,9 +91,9 @@ VNXkb>jNiJze47acj8Gh^^1
 R9
 31
 !i10b 1
-Z22 !s108 1669320566.836000
-Z23 !s90 -reportprogress|300|-93|-work|work|C:/Users/Asus/Desktop/Laboratorio 2 TyDD2/proyecto/Parte B/FULL_ADDER_testbench.vhd|
-Z24 !s107 C:/Users/Asus/Desktop/Laboratorio 2 TyDD2/proyecto/Parte B/FULL_ADDER_testbench.vhd|
+Z23 !s108 1669483908.559000
+Z24 !s90 -reportprogress|300|-93|-work|work|C:/Users/Asus/Desktop/Laboratorio 2 TyDD2/proyecto/Parte B/FULL_ADDER_testbench.vhd|
+Z25 !s107 C:/Users/Asus/Desktop/Laboratorio 2 TyDD2/proyecto/Parte B/FULL_ADDER_testbench.vhd|
 R13
 R14
 Abehavior
@@ -102,13 +102,13 @@ R5
 DEx4 work 20 full_adder_testbench 0 22 NXkb>jNiJze47acj8Gh^^1
 l32
 L7
-V3z?AES6?d4EcO37ZQBT7o1
-!s100 S1PLk82;HYEMeD[cBhYQB3
+VikW:;6>GaB<a63TXHCfHh0
+!s100 XGZVOCkmQm7Pz_OQ@1[9E2
 R9
 31
 !i10b 1
-R22
 R23
 R24
+R25
 R13
 R14
